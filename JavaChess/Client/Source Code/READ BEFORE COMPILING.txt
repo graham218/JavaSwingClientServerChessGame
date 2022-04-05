@@ -1,0 +1,3 @@
+If you'd like to compile and run this yourself, 
+you'll need to copy all the .png files from 
+the parent folder to here so that it can load icons.
